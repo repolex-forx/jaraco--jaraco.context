@@ -3,6 +3,11 @@
   "repo": "jaraco.context",
   "versions": [
     {
+      "commit": "098f39c911d4504b2c718f2ff483ae24f1c4d378",
+      "tag": "v6.1.2",
+      "parsed_at": "2026-11-22T01:08:28.971159+00:00"
+    },
+    {
       "commit": "0474f208479be3752a7e7a3a6af39386af0fe91c",
       "tag": "",
       "parsed_at": "2026-10-18T04:41:26.988743+00:00"
